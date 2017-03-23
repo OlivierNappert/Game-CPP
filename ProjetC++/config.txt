@@ -1,0 +1,35 @@
+#CONFIG
+#
+#
+#
+#les lignes qui commencent par # sont ignorees
+#ne pas sauter de ligne, ne pas utiliser d'espaces
+#
+#
+#
+#---------------general---------------
+mapSize=12
+playerHp=100
+goldPerTurn=8
+startingGolds=12
+#---------------soldier---------------
+soldierHp=10
+soldierCost=10
+soldierAttackValue=4
+soldierPa=1
+soldierMoveValue=1
+soldierPm=1
+#---------------bowman---------------
+bowmanHp=8
+bowmanCost=12
+bowmanAttackValue=3
+bowmanPa=1
+bowmanMoveValue=1
+bowmanPm=1
+#--------------catapult--------------
+catapultHp=12
+catapultCost=20
+catapultAttackValue=6
+catapultPa=1
+catapultMoveValue=1
+catapultPm=1

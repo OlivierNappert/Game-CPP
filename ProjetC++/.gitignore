@@ -1,0 +1,6 @@
+/Debug/
+*.swp
+*.swo
+*.o
+*~
+logs.txt
